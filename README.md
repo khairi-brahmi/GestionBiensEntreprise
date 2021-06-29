@@ -1,4 +1,2 @@
-# ANDROID CRUD SQLite
-This project shows implementation for CRUD using the SQLite in Android
+# ANDROID - Gestion Des Biens Mobiliers et Immobiliers d'une entreprise
 
-Este projeto mostra a implementação de um CRUD em Android utilizando SQLite 
